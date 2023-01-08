@@ -9,7 +9,7 @@ Looking for an Intership.
 
 
 ## Known Languages (Most knowledge to Least knowledge):
-   - HTML, CCS, JavaScript
+   - HTML, CSS, JavaScript
    - Lua
    - Python
    - C++/C#
