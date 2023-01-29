@@ -1,6 +1,6 @@
 # About Me
 
-20 years old.
+21years old.
 Doing a Training as IT-Specialist for application development at the SFZ in Chemnitz.
 
 Looking for an Intership.
