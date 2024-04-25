@@ -10,6 +10,7 @@ Looking for an Intership.
 
 ## Known Languages (Most knowledge to Least knowledge):
    - HTML, CSS, JavaScript
+   - React / Vue.js / Next.js
    - Lua
    - Python
    - C++/C#
